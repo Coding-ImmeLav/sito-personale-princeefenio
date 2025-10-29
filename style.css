@@ -1,0 +1,14 @@
+.Benvenuto {
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: 90vh;
+background-color: rgb(108, 63, 245);
+}
+
+.bio {
+height: 30vh;
+display: flex;
+align-items: center;
+}
