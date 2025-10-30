@@ -8,7 +8,21 @@ background-color: rgb(108, 63, 245);
 }
 
 .bio {
-height: 30vh;
-display: flex;
-align-items: center;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+}
+
+.foglio {
+    border: 0.5px solid black;
+    padding: 5%;
+}
+
+.cv {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.btn {
+    width: auto;
 }
