@@ -26,3 +26,12 @@ background-color: rgb(108, 63, 245);
 .btn {
     width: auto;
 }
+
+.logo {
+    width: 50%;
+}
+
+footer {
+    background-color: rgb(224, 253, 255);
+    padding: 5vh;
+}
